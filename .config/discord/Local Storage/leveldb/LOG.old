@@ -1,0 +1,6 @@
+2021/11/27-17:34:11.133 38a Reusing MANIFEST /home/af/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/11/27-17:34:11.133 38a Recovering log #7
+2021/11/27-17:34:11.133 38a Reusing old log /home/af/.config/discord/Local Storage/leveldb/000007.log 
+2021/11/27-17:35:11.905 38a Level-0 table #11: started
+2021/11/27-17:35:11.911 38a Level-0 table #11: 107549 bytes OK
+2021/11/27-17:35:11.912 38a Delete type=0 #7
