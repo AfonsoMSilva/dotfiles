@@ -1,0 +1,56 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/af/Documents/rootp/" . "cprogramming/")
+ ("/home/af/Documents/" . "rootp/")
+ ("/home/" . "af/")
+ ("/home/af/" . ".config/")
+ ("/home/af/.config/" . "i3/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/af/"
+ "/home/af/.config/i3/"
+ "/home/af/Documents/rootp/cprogramming/"
+ "/home/af/Documents/rootp/python /"
+ "/home/af/.config/alacritty/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "config"
+ "main.c"
+ "Makefile"
+ ".i3status.conf"
+ "main2.py"
+ "alacritty.yml"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/af/" (25010 2573 195369 111000) ".bash_profile" "Pictures/" ".zcompdump" "Music/" ".emacs~" ".emacs.d/" ".emacs.snippets/" ".zshrc" ".Xauthority" ".i3status.conf" ".config/" "./" ".local/" "(dashboard-refresh-buffer)" ".tmux.conf" "Public/" ".vim/" ".cache/" ".xmonad/" ".pki/" ".npm/" "tmw.sh" "dtos-backup-2021.11.17-2337/" ".scripts/" ".bashrc" ".stack/" ".bash_logout" "Desktop/" "Documents/" ".i3status.conf~" ".viminfo" ".python_history" ".gitconfig" "Downloads/" ".cargo/" ".xinitrc" "../" "pfetch/" ".mozilla/" ".bash_history" "dtos/" ".xinitrc~" ".Xresources" "Videos/" ".lesshst" ".moc/" ".ssh/" ".emacs" "Templates/")
+
+ ("/home/af/.config/i3/" (25010 2216 386552 133000) "./" "#config#" ".#config" "config" "../" "config~")
+
+ ("/home/af/.emacs.d/" (25009 12303 634951 373000) "auto-save-list/" "smex-items" "./" "transient/" "elpa/" "ido.last~" "init.el~" "../" "ido.last" "init.el")
+
+ ("/home/af/Documents/rootp/cprogramming/" (25006 7659 509844 66000) "./" "main.c~" "Makefile" "main.c" "../" "main")
+
+ ("/home/af/Documents/rootp/python /" (24991 46974 285295 897000) "./" "typingtest/" "main3.py" "main2.py" "../" "text.txt")
+
+ ("/home/af/Documents/rootp/" (25003 31816 533691 954000) "./" "python /" "notes/" "../" "cprogramming/")
+
+ ("/home/af/Documents/" (24992 195 59291 322000) "hello.py" "./" ".vscode/" "scripts/" "../" "rootp/")
+
+ ("/home/af/.config/" (25002 14696 270670 683000) "ranger/" "libfm/" "conky/" "gtk-2.0/" "nitrogen/" "dmscripts/" "user-dirs.dirs" "qutebrowser/" "volumeicon/" "sxiv/" "pcmanfm/" "./" "nvim/" "lsd/" "dconf/" "fish/" "i3blocks/" "neofetch/" "pulse/" "xmobar/" "mimeapps.list" "htop/" "gtk-3.0/" "../" "alacritty/" "i3/" "scrpts.sh" "coc/" "user-dirs.locale" "discord/")
+
+ ("/home/af/.config/alacritty/" (25002 10333 221510 21000) "alacritty.yml~" "./" "../" "alacritty.yml")
+
+ ("/home/" (24981 37214 289527 153000) "./" "af/" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
